@@ -43,6 +43,7 @@ WordPress allows you to choose a template or “theme” for your website that p
 
 ## 5. Adding Blocks (text, images, videos, etc)
 
+Add an image
 
 <img src="images/class-blocks.png" alt="windows" class="center"/>
 
@@ -55,6 +56,7 @@ WordPress allows you to choose a template or “theme” for your website that p
 
 <img src="images/class-imageprops.png" alt="windows" class="center"/>
 
+Add some text
 
 <img src="images/class-addtext.png" alt="windows" class="center"/>
 
