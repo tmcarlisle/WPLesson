@@ -8,14 +8,14 @@ Created by Tara Carlisle
 * [WordPress Themes](#2-WordPress-Themes)* 
 * [Adding Pages](#3-Adding-Pages)* 
 * [Add a Feature Image](#4-Add-a-Feature-Image)* 
-* [Adding Blocks](#5-Adding Blocks)* 
+* [Adding Blocks](#5-Adding-Blocks)* 
 
 ## Introduction
 WordPress is a great tool for creating a blog or website especially for those who don’t want to do much html coding. WordPress allows you to choose a template or “theme” for your website that provides the structure and format for your website. 
 
 But before diving into WordPress, it is important to consider what you want your website to communicate, always keep your audience in mind. 
 
-Think about the story that you want to tell with the text, images, and other media you have gathered through your research. Sometimes it helps to first draw out a sketch to get an idea of how you want to organize the content, especially if you working in a group. 
+Think about the story that you want to tell with the text, images, and other media you have gathered through your research. Sometimes it helps to first draw out a sketch to get an idea of how to organize the content, especially if you are working in a group. 
 
 Remember to keep it simple! You can always add more later. 
 
@@ -68,5 +68,13 @@ WordPress allows you to choose a template or “theme” for your website that p
 <img src="images/class-addtext.png" alt="windows" class="center"/>
 
 <img src="images/class-text.png" alt="windows" class="center"/>
+
+### 6. File Management tips 
+
+* Images should be no larger than 1200 pixels wide.
+* Gather images for the website in a separate folder on a desktop to make the process of uploading images easier.
+* Once images have been uploaded to the WP Media Library, it is possible to adjust the size to large, medium or small.
+* Considering writing and editing text in a separate document and then just paste the text in the paragraph blocks.
+
 
 [Return to Top](#about)
