@@ -18,13 +18,14 @@ Remember to keep it simple! You can always add more later.
 Once you have a plan sketched out, you are ready to create the website.
 
 ## Getting Started
-Now let's dive into WordPress. After logging in with your username and password you are on the main administration screen called the Dashboard. 
+After logging in with your username and password you are on the main administration screen called the Dashboard. 
 
 ## 1. Navigating the WP dashboard and functions
 <img src="images/class-dashboard.png" alt="windows" class="center"/>
 
 ## 2. WordPress Themes
 WordPress allows you to choose a template or “theme” for your website that provides the structure and format for your website. 
+
 <img src="images/class-appearance.png" alt="windows" class="center"/>
 
 ## 3. Adding Pages
