@@ -60,7 +60,6 @@ Add some text
 
 <img src="images/class-addtext.png" alt="windows" class="center"/>
 
-
 <img src="images/class-text.png" alt="windows" class="center"/>
 
 [Return to Top](#about)
