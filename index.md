@@ -31,17 +31,21 @@ WordPress allows you to choose a template or “theme” for your website that p
 <img src="images/class-addnewpage.png" alt="windows" class="center"/>
 
 
-<img src="images/class-save.png" alt="windows" class="center"/>
+<img src="images/class-publish.png" alt="windows" class="center"/>
 
 
 <img src="images/class-pages.png" alt="windows" class="center"/>
 
 ## 4. Add a Feature Image 
 
-<img src="images/class-setimage.png" alt="windows" class="center"/>
+<img src="images/class-featureimage.png" alt="windows" class="center"/>
 
 
 ## 5. Adding Blocks (text, images, videos, etc)
+
+
+<img src="images/class-blocks.png" alt="windows" class="center"/>
+
 
 <img src="images/class-addmedia.png" alt="windows" class="center"/>
 
@@ -52,5 +56,9 @@ WordPress allows you to choose a template or “theme” for your website that p
 <img src="images/class-imageprops.png" alt="windows" class="center"/>
 
 
+<img src="images/class-addtext.png" alt="windows" class="center"/>
+
+
+<img src="images/class-addtext.png" alt="windows" class="center"/>
 
 [Return to Top](#about)
