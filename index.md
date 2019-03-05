@@ -19,4 +19,30 @@ Once you have a plan sketched out, it’s time to start creating the website and
 After logging in with your username and password you are on the main administration screen called the Dashboard. 
 <img src="images/class-dashboard.png" alt="windows" class="center"/>
 
+<img src="images/class-appearance.png" alt="windows" class="center"/>
+
+
+<img src="images/class-addnewpage.png" alt="windows" class="center"/>
+
+
+<img src="images/class-setimage.png" alt="windows" class="center"/>
+
+
+
+<img src="images/class-save.png" alt="windows" class="center"/>
+
+
+
+<img src="images/class-pages.png" alt="windows" class="center"/>
+
+
+<img src="images/class-addmedia.png" alt="windows" class="center"/>
+
+
+<img src="images/class-media.png" alt="windows" class="center"/>
+
+
+<img src="images/class-imageprops.png" alt="windows" class="center"/>
+
+
 [Return to Top](#about)
