@@ -40,7 +40,7 @@ Located in the left-hand navigation you'll see *Pages* and *Posts* listed. What 
 
 <img src="images/class-addnewpage.png" alt="windows" class="center"/>
 
-Save your work by clicking on publishing. Yes, it's not intuitive, but remember PUBLISH = SAVE. WordPress will automatically save your work and it is possible to restore previous versions, but it is good practice to save (publish) any changes.
+To save your work click *Publish*. Yes, it's not intuitive, but remember PUBLISH = SAVE. WordPress will automatically save your work and it is possible to restore previous versions, but it is good practice to save (publish) any changes.
 
 <img src="images/class-publish.png" alt="windows" class="center"/>
 
