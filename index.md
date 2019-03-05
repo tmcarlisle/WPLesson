@@ -4,7 +4,11 @@ Created by Tara Carlisle
 
 
 ## Table of Contents
-* [Learn the basics of an API](#1-basics-of-an-application-programming-interface)* 
+* [Navigating dashboard and functions](#1-Navigating-the-WP-dashboard-and-functions)* 
+* [WordPress Themes](#2-WordPress-Themes)* 
+* [Adding Pages](#3-Adding-Pages)* 
+* [Add a Feature Image](#4-Add-a-Feature-Image)* 
+* [Adding Blocks](#5-Adding Blocks)* 
 
 ## Introduction
 WordPress is a great tool for creating a blog or website especially for those who don’t want to do much html coding. WordPress allows you to choose a template or “theme” for your website that provides the structure and format for your website. 
@@ -18,17 +22,18 @@ Remember to keep it simple! You can always add more later.
 Once you have a plan sketched out, you are ready to create the website.
 
 ## Getting Started
-After logging in with your username and password you are on the main administration screen called the Dashboard. 
 
-## 1. Navigating the WP dashboard and functions
+### 1. Navigating the WP dashboard and functions
+**After logging in with your username and password you are on the main administration screen called the Dashboard.** 
+
 <img src="images/class-dashboard.png" alt="windows" class="center"/>
 
-## 2. WordPress Themes
+### 2. WordPress Themes
 WordPress allows you to choose a template or “theme” for your website that provides the structure and format for your website. 
 
 <img src="images/class-appearance.png" alt="windows" class="center"/>
 
-## 3. Adding Pages
+### 3. Adding Pages
 <img src="images/class-addnewpage.png" alt="windows" class="center"/>
 
 
@@ -37,14 +42,14 @@ WordPress allows you to choose a template or “theme” for your website that p
 
 <img src="images/class-pages.png" alt="windows" class="center"/>
 
-## 4. Add a Feature Image 
+### 4. Add a Feature Image 
 
 <img src="images/class-featureimage.png" alt="windows" class="center"/>
 
 
-## 5. Adding Blocks (text, images, videos, etc)
+### 5. Adding Blocks (text, images, videos, etc)
 
-Add an image
+**Add an image**
 
 <img src="images/class-blocks.png" alt="windows" class="center"/>
 
@@ -57,7 +62,8 @@ Add an image
 
 <img src="images/class-imageprops.png" alt="windows" class="center"/>
 
-Add some text
+
+**Add some text**
 
 <img src="images/class-addtext.png" alt="windows" class="center"/>
 
