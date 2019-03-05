@@ -24,42 +24,43 @@ Once you have a plan sketched out, you are ready to create the website.
 ## Getting Started
 
 ### 1. Navigating the WP dashboard and functions
-**After logging in with your username and password you are on the main administration screen called the Dashboard. The navigation on the left lists all of the basic functions to build a web page. For this lesson we will focus on adding pages and media such as images and videos. 
+After logging in with your username and password you are on the main administration screen called the Dashboard. The navigation on the left lists all of the basic functions to build a web page. For this lesson we will focus on adding pages and media such as images and videos. 
 
 <img src="images/class-dashboard.png" alt="windows" class="center"/>
 
 ### 2. WordPress Themes
-**WordPress allows you to choose a template or “theme” for your website that provides the structure and format for your website. The default template is "Twenty Nineteen."** 
+WordPress allows you to choose a template or “theme” for your website that provides the structure and format for your website. The default template is "Twenty Nineteen."*
 
 <img src="images/class-appearance.png" alt="windows" class="center"/>
 
 ### 3. Adding Pages
-**You'll see *Pages* and *Posts* in the left hand navigation. What is the difference? A website is composed of pages and a blog is composed of posts. For this project, you'll be creating a website so will only need to add pages.   
+You'll see *Pages* and *Posts* in the left hand navigation. What is the difference? A website is composed of pages and a blog is composed of posts. For this project, you'll be creating a website so will only need to add pages.   
 
 **Add a new page:** 
 
 <img src="images/class-addnewpage.png" alt="windows" class="center"/>
 
-**Save your work by clicking on publishing. Yes, it's not intuitive, but remember PUBLISH = SAVE. WordPress will automatically save your work and it is possible to restore previous versions, but it is good practice to save (publish) any changes.** 
+Save your work by clicking on publishing. Yes, it's not intuitive, but remember PUBLISH = SAVE. WordPress will automatically save your work and it is possible to restore previous versions, but it is good practice to save (publish) any changes.** 
 
 <img src="images/class-publish.png" alt="windows" class="center"/>
 
-**Once you've added a page, click on *Pages* in the left-hand navigation to view all of your pages. 
+Once you've added a page, click on *Pages* in the left-hand navigation to view all of your pages. 
 
 <img src="images/class-pages.png" alt="windows" class="center"/>
 
 ### 4. Add a Feature Image 
-**To add a large feature images at the top of a page, click on *Set featured image* located on the pages right navigation. 
+To add a large feature images at the top of a page, click on *Set featured image* located on the pages right navigation. 
 
 <img src="images/class-featureimage.png" alt="windows" class="center"/>
 
 
 ### 5. Adding Blocks (text, images, videos, etc)
 
-**Add an image**
+WordPress has started incorporating *blocks* for building a website. When clicking on the + sign, you'll see there are lots of choices of different kinds of blocks of content to add, such an image, text, groups of images, or a combination of text and image. 
 
 <img src="images/class-blocks.png" alt="windows" class="left"/>
 
+To add an image, either drag the file from your desktop into the media box or upload it. 
 
 <img src="images/class-addmedia.png" alt="windows" class="center"/>
 
