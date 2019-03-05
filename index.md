@@ -84,5 +84,5 @@ To add an image, either drag the file from your desktop into the media box or up
 * Once images have been uploaded to the WP Media Library, it is possible to adjust the size to large, medium or small.
 * Considering writing and editing text in a separate document and then just paste the text in the paragraph blocks.
 
-
+check
 [Return to Top](#about)
