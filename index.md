@@ -80,7 +80,7 @@ Like images, you can add a *block* of text to a page. There are two kinds of tex
 
 <img src="images/class-text.png" alt="windows" class="center"/>
 
-### File Management tips 
+### File management and other things
 
 Here are a few tips to keep in mind: 
 
