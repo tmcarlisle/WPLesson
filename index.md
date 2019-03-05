@@ -4,11 +4,11 @@ Created by Tara Carlisle
 
 
 ## Table of Contents
-* [Navigating dashboard and functions](#Navigating-the-WP-dashboard-and-functions) 
-* [WordPress Themes](#WordPress-Themes) 
-* [Adding Pages](#3Adding-Pages) 
-* [Add a Feature Image](#4Add-a-Feature-Image)
-* [Adding Blocks](#5Adding-Blocks) 
+* [Navigating dashboard and functions](#navigating-the-wp-dashboard-and-functions) 
+* [WordPress Themes](#wordpress-themes) 
+* [Adding Pages](#adding-pages) 
+* [Add a Feature Image](#add-a-feature-image)
+* [Adding Blocks](#adding-blocks) 
 
 ## Introduction
 WordPress is a great tool for creating a blog or website especially for those who don’t want to do much html coding. WordPress allows you to choose a template or “theme” for your website that provides the structure and format for your website. 
