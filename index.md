@@ -88,7 +88,7 @@ Here are a few tips to keep in mind:
 * Images should be no larger than 1200 pixels wide.
 * Gather images for the website in a separate folder on a desktop to make the process of uploading images easier.
 * Once images have been uploaded to the WP Media Library, it is possible to adjust the size to large, medium or small.
-* Consider writing and editing text in a separate document and then paste the text in the paragraph blocks.
+* Consider writing and editing text in a separate document and then paste it into the website's text blocks. Having the text written and organized before adding it to the website may help avoid mistakes or inconsistencies. 
 
 check
 [Return to Top](#about)
