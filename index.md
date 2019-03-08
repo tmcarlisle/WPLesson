@@ -11,7 +11,7 @@ Created by Tara Carlisle
 * [Adding Blocks](#adding-blocks) 
 
 ## Introduction
-WordPress is a great tool for creating a blog or website, especially for those who don’t want to do much html coding. It allows you to choose a template or “theme” for your website that provides the structure and format for your website. 
+WordPress is a great tool for creating a blog or website, especially for those who do not want to do much html coding. It allows you to choose a template or “theme” for your website that provides the format for your website. 
 
 But before diving into WordPress, it is important to consider what you want your website to communicate, always keep your audience in mind. 
 
@@ -34,13 +34,13 @@ WordPress allows you to choose a template or “theme” for your website that p
 <img src="images/class-appearance.png" alt="windows" class="center"/>
 
 ### Adding Pages
-Located in the left-hand navigation you'll see *Pages* and *Posts* listed. What is the difference? A website is composed of pages and a blog is composed of posts. For this project, you'll be creating a website so you'll only need to add pages.   
+Located in the left-hand navigation you'll see *Pages* and *Posts* listed. What is the difference? A website is composed of pages and a blog is composed of posts. For this project, you'll be creating a website so you will only need to add pages.   
 
 **Add a new page:** 
 
 <img src="images/class-addnewpage.png" alt="windows" class="center"/>
 
-To save your work click *Publish*. Yes, it's not intuitive, but remember PUBLISH = SAVE. WordPress will automatically save your work and it is possible to restore previous versions, but it is good practice to save (publish) any changes.
+To save your work click *Publish*. Yes, it's not intuitive, but remember PUBLISH = SAVE. WordPress will automatically save your work and while it is possible to restore previous in WordPress, it is good practice to save (publish) any changes.
 
 <img src="images/class-publish.png" alt="windows" class="center"/>
 
@@ -49,17 +49,17 @@ Once you've added a page, click on *Pages* in the left-hand navigation to view a
 <img src="images/class-pages.png" alt="windows" class="center"/>
 
 ### Add a Feature Image 
-To add a large feature images at the top of a page, click on *Set featured image* located on the pages right navigation. 
+To add a large, featured image at the top of a page, click on *Set featured image* located on the page's right navigation. 
 
 <img src="images/class-featureimage.png" alt="windows" class="center"/>
 
 
 ### Adding Blocks (text, images, videos, etc)
-WordPress has started incorporating *blocks* for building a website. When clicking on the + sign, you'll see there are lots of choices of different kinds of blocks of content to add, such an image, text, groups of images, or a combination of text and image. 
+WordPress has started incorporating *blocks* for building a website. When clicking on the + sign, you'll see there are several types of blocks from which to choose, such as an image, text, group of images, or a combination of text and image. For now, let's choose image.
 
 <img src="images/class-blocks.png" alt="windows" class="left"/>
 
-To add an image, either drag the file from your desktop into the media box or click on *Upload* to access the files you want to upload. 
+To add an image to the block, either drag the file from your desktop into the media box or click on *Upload* to access the files you want to upload. 
 
 <img src="images/class-addmedia.png" alt="windows" class="center"/>
 
@@ -74,7 +74,7 @@ It is possible to adjust an image's size through *Image Settings* located on the
 
 **Add some text**
 
-Like images, you can add a *block* of text to a page. There are two kinds of text blocks: Paragraph or Classic. Classic allows a little more control of how the text is displayed. 
+Similarly, you can add a *block* of text to a page. There are two kinds of text blocks: *Paragraph* or *Classic*. Classic allows a little more control of how the text is displayed. 
 
 <img src="images/class-addtext.png" alt="windows" class="center"/>
 
